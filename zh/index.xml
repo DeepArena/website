@@ -1,11 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DeepArena – Goldydoc</title><link>/zh/</link><description>Recent content in Goldydoc on DeepArena</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Docsy的简单文档</title><link>/zh/blog/news/first-post/</link><pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate><guid>/zh/blog/news/first-post/</guid><description>
-&lt;img src="/zh/blog/news/first-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_box_3.png" width="640" height="253"/>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DeepArena – Goldydoc</title><link>https://deeparena.github.io/website/zh/</link><description>Recent content in Goldydoc on DeepArena</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://deeparena.github.io/website/zh/index.xml" rel="self" type="application/rss+xml"/><item><title>Blog: Docsy的简单文档</title><link>https://deeparena.github.io/website/zh/blog/news/first-post/</link><pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate><guid>https://deeparena.github.io/website/zh/blog/news/first-post/</guid><description>
+&lt;img src="https://deeparena.github.io/website/zh/blog/news/first-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_640x0_resize_box_3.png" width="640" height="253"/>
 &lt;p>&lt;strong>这是一篇典型的包含图片的博客文章。&lt;/strong>&lt;/p>
 &lt;p>前端内容指定博客文章的日期、标题、将显示在博客登录页面上的简短描述以及作者&lt;/p>
 &lt;h2 id="包括图像">包括图像&lt;/h2>
 &lt;p>这是一张图片（&lt;code>featured-sunset1-get.png&lt;/code>），其中包括一条署名和一个标题。&lt;/p>
 &lt;figure class="card rounded p-2 td-post-card mb-4 mt-4" style="max-width: 610px">
-&lt;img class="card-img-top" src="/zh/blog/news/first-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_box_smart1_3.png" width="600" height="300">
+&lt;img class="card-img-top" src="https://deeparena.github.io/website/website/zh/blog/news/first-post/featured-sunset-get_hu69849a7cdb847c2393a7b3a7f6061c86_387442_600x300_fill_box_smart1_3.png" width="600" height="300">
 &lt;figcaption class="card-body px-0 pt-2 pb-0">
 &lt;p class="card-text">
 获取并缩放即将发布的Hugo 0.43中的图像。
@@ -93,4 +93,4 @@ Go语言中的值类型 &lt;code>int、float、bool、string、array、struct&lt
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">// 输出
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">map&lt;/span>&lt;span style="color:#000;font-weight:bold">[&lt;/span>&lt;span style="color:#000">a&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#0000cf;font-weight:bold">100&lt;/span>&lt;span style="color:#000;font-weight:bold">]&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="heading">&lt;/h3></description></item><item><title>Blog: 第二篇博客文章</title><link>/zh/blog/news/second-post/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>/zh/blog/news/second-post/</guid><description/></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="heading">&lt;/h3></description></item><item><title>Blog: 第二篇博客文章</title><link>https://deeparena.github.io/website/zh/blog/news/second-post/</link><pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate><guid>https://deeparena.github.io/website/zh/blog/news/second-post/</guid><description/></item></channel></rss>
